@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Serhii</h1>
+<h3 align="center">🚀 DevOps | Platform Engineer | Cloud Engineer from Ukraine</h3>
 
+---
+
+### 🧰 Tech Stack
+
+- 🐧 Linux / Bash / Python / Go
+- ☁️ AWS / Azure/ GCP
+- 🐳 Docker / Podman
+- ☸️ Kubernetes / Helm / ArgoCD / Karpenter / KEDA
+- 🛠️ Terraform / Terragrunt / Terratest / Ansible
+- 📦 GitHub Actions / GitLab CI
+- 📊 Prometheus / Grafana / Loki / Alertmanager
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SerhiiK&show_icons=true&theme=dark" alt="Serhii's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerhiiK&theme=dark" alt="Serhii's GitHub streak" />
+</p>
+
+---
+
+### ✍️ About Me
+
+- 🔭 I’m currently working on improving platform reliability and developer experience.
+- 🛠 I enjoy building internal tools and automating boring stuff.
+- 📚 I’m always learning something new: lately it’s [Karpenter](https://karpenter.sh) and [KEDA](https://keda.sh/)
+
+---
+
+### 📎 Featured Projects
+
+- 🧩 [asdf-argocd-autopilot](https://github.com/SerhiiK/asdf-argocd-autopilot) – ASDF plugin for managing ArgoCD Autopilot CLI
 <!--
-**SerhiiK/SerhiiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔧 [StalePVC Cleaner](https://github.com/SerhiiK/stalepvc-cleaner) – Kubernetes operator for automatic PVC cleanup
+- 🛒 [s3ls](https://github.com/SerhiiK/s3ls) – s3 buckets explorer
 -->
+---
+
+### 🧭 Currently Exploring
+
+- Python for Web Development
+- SRE 
+- AWS Certification
+
+---
+
+<details>
+<summary>Stats</summary>
+<a href="https://u8views.com/github/SerhiiK"><img src="https://u8views.com/api/v1/github/profiles/6170876/views/day-week-month-total-count.svg"></a>
+</details>
