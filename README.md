@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Serhii</h1>
 <h3 align="center">🚀 DevOps | SRE | Cloud Engineer from Ukraine</h3>
 
-<table>
-  <tr>
-  <td width="50%" valign="top">
-    
   ### 🧰 Tech Stack
     
  - 🐧 Linux / Bash / Python / Go
@@ -14,12 +10,15 @@
  - 🛠️ Terraform / Terragrunt / Terratest / Ansible
  - 📦 GitHub Actions / GitLab CI
  - 📊 Prometheus / Grafana / Loki / Alertmanager
-  </td>
-  <td width="50%" valign="top" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SerhiiK&show_icons=true&theme=dark" width="100%"/>
-  </td>
-  </tr>
-</table>
+
+
+---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SerhiiK&show_icons=true&theme=dark" alt="Serhii's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerhiiK&theme=dark" alt="Serhii's GitHub streak" />
+</p>
 
 ---
 
