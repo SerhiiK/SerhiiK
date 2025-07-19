@@ -16,8 +16,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SerhiiK&show_icons=true&theme=dark" alt="Serhii's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerhiiK&theme=dark" alt="Serhii's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SerhiiK&show_icons=true&theme=dark" alt="Serhii's GitHub stats" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerhiiK&theme=dark" alt="Serhii's GitHub streak" width="50%"/>
 </p>
 
 ---
